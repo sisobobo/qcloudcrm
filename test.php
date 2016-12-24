@@ -1,5 +1,5 @@
 <?php 
 
-  echo "test11111";
+  echo "测试钩子";
 
 ?>
